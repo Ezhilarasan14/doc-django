@@ -40,6 +40,6 @@
 2. [Role and Permission](Mdfiles/ApplicationLayer/RolePermission.md)
 3. [i18n](Mdfiles/ApplicationLayer/i18n.md)
 4. [Timezone](Mdfiles/ApplicationLayer/Timezone.md)
-5. [Report](Mdfiles/ApplicationLayer/Report.md)
+5. [Performance testing tool](Mdfiles/ApplicationLayer/Report.md)
 6. [SMS Template](Mdfiles/ApplicationLayer/SMSTemplate.md)
 7. [Email Template](Mdfiles/ApplicationLayer/EmailTemplate.md)

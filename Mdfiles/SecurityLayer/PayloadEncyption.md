@@ -1,3 +1,3 @@
 # Security Layer
 
-## Payload Enrcyption
+## Payload Encryption

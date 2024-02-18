@@ -1,3 +1,3 @@
 # Security Layer
 
-## Email
+## Authentication
