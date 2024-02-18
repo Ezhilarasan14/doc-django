@@ -1,6 +1,6 @@
-#Application Layer
+# Application Layer
 
-##Email Template
+## Email Template
 
 <p>
 1. Create an Email Template:

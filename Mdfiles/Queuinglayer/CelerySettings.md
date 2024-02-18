@@ -1,6 +1,6 @@
-#Queuing Layer
+# Queuing Layer
 
-##Celery Settings and Rabbitmq
+## Celery Settings and Rabbitmq
 
 <p>
 Configure Django to Use Celery

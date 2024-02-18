@@ -1,8 +1,8 @@
-#Integration Layer
+# Integration Layer
 
-##Email
+## Email
 
-###1. Configure Email Settings:
+### 1. Configure Email Settings:
 
 <p>
 
@@ -37,7 +37,7 @@ That's a basic overview of using email templates in Django. Adjust the code base
 
 </p>
 
-###2. Send the Email
+### 2. Send the Email
 <p>
 Use the send_mail function to send the email.
 </p>

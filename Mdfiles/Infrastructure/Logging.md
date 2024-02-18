@@ -21,6 +21,8 @@ Digid Customized logger functions:
 ```
 import os
 
+# ...
+
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -58,7 +60,7 @@ LOGGING = {
 
 ```
 
-### 2. Use Logging in Your Code
+## #2. Use Logging in Your Code
 <p>
 You can use the logging module in your Django code to add log messages. For example:
 

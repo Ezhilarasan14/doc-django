@@ -1,13 +1,14 @@
-#Queuing Layer
+# Queuing Layer
 
-##Celery Task
+## Celery Task
 
 <p>
 Create tasks in your Django app
 </p>
 
+### tasks.py in your app
+
 ```
-# tasks.py in your app
 from celery import shared_task
 
 @shared_task

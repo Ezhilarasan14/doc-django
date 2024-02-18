@@ -1,6 +1,6 @@
 #Queuing Layer
 
-##Celery
+## Celery
 
 <p>
 Celery is a distributed task queue library for Python that is commonly used with Django for handling asynchronous tasks. It allows you to offload time-consuming tasks to be executed in the background, improving the responsiveness of your web application.
@@ -17,7 +17,7 @@ Install Celery using pip:
 pip install celery
 ```
 
-###Create a Celery Configuration File:
+### Create a Celery Configuration File:
 
 <p>
 Create a file named celery.py in your Django project directory (next to your settings.py). This file will configure and instantiate Celery for your project.
