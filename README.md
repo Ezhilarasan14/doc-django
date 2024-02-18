@@ -9,53 +9,34 @@
 6. [SSL](Mdfiles/Infrastructure/ConfigurationManagement.md)
 
 ## Integration Layer
-[Communication with external systems](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[SSO](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[2FA](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[Email](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[SMS](Mdfiles/Infrastructure/ConfigurationManagement.md)
+1. [Communication with external systems](Mdfiles/Infrastructure/ConfigurationManagement.md)
+2. [SSO](Mdfiles/Infrastructure/ConfigurationManagement.md)
+3. [2FA](Mdfiles/Infrastructure/ConfigurationManagement.md)
+4. [Email](Mdfiles/Infrastructure/ConfigurationManagement.md)
+5. [SMS](Mdfiles/Infrastructure/ConfigurationManagement.md)
 
 ## Data Access Layer
-[Database](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[ORM](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[Audit](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[Data Validation](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[Migration](Mdfiles/Infrastructure/ConfigurationManagement.md)
+1. [Database](Mdfiles/Infrastructure/ConfigurationManagement.md)
+2. [ORM](Mdfiles/Infrastructure/ConfigurationManagement.md)
+3. [Audit](Mdfiles/Infrastructure/ConfigurationManagement.md)
+4. [Data Validation](Mdfiles/Infrastructure/ConfigurationManagement.md)
+5. [Migration](Mdfiles/Infrastructure/ConfigurationManagement.md)
 
 ## Queuing Layer
-[Cache Table](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[Rabbitmq](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[Celery](Mdfiles/Infrastructure/ConfigurationManagement.md)
+1. [Cache Table](Mdfiles/Infrastructure/ConfigurationManagement.md)
+2. [Rabbitmq](Mdfiles/Infrastructure/ConfigurationManagement.md)
+3. [Celery](Mdfiles/Infrastructure/ConfigurationManagement.md)
 
 ## Infrastructure
-[Logging](Mdfiles/Infrastructure/Logging.md)
-
-[File Storage](Mdfiles/Infrastructure/FileStorage.md)
-
-[Configuration Management](Mdfiles/Infrastructure/ConfigurationManagement.md)
+1. [Logging](Mdfiles/Infrastructure/Logging.md)
+2. [File Storage](Mdfiles/Infrastructure/FileStorage.md)
+3. [Configuration Management](Mdfiles/Infrastructure/ConfigurationManagement.md)
 
 ## Application
-[Users](Mdfiles/Infrastructure/Logging.md)
-
-[Role and Permission](Mdfiles/Infrastructure/Logging.md)
-
-[i18n](Mdfiles/Infrastructure/Logging.md)
-
-[Timezone](Mdfiles/Infrastructure/Logging.md)
-
-[Report](Mdfiles/Infrastructure/Logging.md)
-
-[SMS Template](Mdfiles/Infrastructure/Logging.md)
-
-[Email Template](Mdfiles/Infrastructure/Logging.md)
-
+1. [Users](Mdfiles/Infrastructure/Logging.md)
+2. [Role and Permission](Mdfiles/Infrastructure/Logging.md)
+3. [i18n](Mdfiles/Infrastructure/Logging.md)
+4. [Timezone](Mdfiles/Infrastructure/Logging.md)
+5. [Report](Mdfiles/Infrastructure/Logging.md)
+6. [SMS Template](Mdfiles/Infrastructure/Logging.md)
+7. [Email Template](Mdfiles/Infrastructure/Logging.md)
