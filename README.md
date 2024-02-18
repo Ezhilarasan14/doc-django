@@ -3,4 +3,4 @@
   
   [File Storage](Mdfiles/Infrastructure/FileStorage.md)
   
-  [Configuration Management.md](Mdfiles/Infrastructure/ConfigurationManagement.md.md)
+  [Configuration Management](Mdfiles/Infrastructure/ConfigurationManagement.md)
