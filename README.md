@@ -1,17 +1,12 @@
 ![alt text](digid-product-design-layer-Main.drawio.png)
 
 ## Security Layer
-[Authentication](Mdfiles/Infrastructure/Logging.md)
-
-[Passworld Encryption](Mdfiles/Infrastructure/FileStorage.md)
-
-[CSRF / XSS ](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[Payload Encyption](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[URL Encyption](Mdfiles/Infrastructure/ConfigurationManagement.md)
-
-[SSL](Mdfiles/Infrastructure/ConfigurationManagement.md)
+1.[Authentication](Mdfiles/Infrastructure/Logging.md)
+2.[Passworld Encryption](Mdfiles/Infrastructure/FileStorage.md)
+3.[CSRF / XSS ](Mdfiles/Infrastructure/ConfigurationManagement.md)
+4.[Payload Encyption](Mdfiles/Infrastructure/ConfigurationManagement.md)
+5.[URL Encyption](Mdfiles/Infrastructure/ConfigurationManagement.md)
+6.[SSL](Mdfiles/Infrastructure/ConfigurationManagement.md)
 
 ## Integration Layer
 [Communication with external systems](Mdfiles/Infrastructure/ConfigurationManagement.md)
