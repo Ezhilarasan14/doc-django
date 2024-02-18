@@ -1,4 +1,4 @@
-#Queuing Layer
+# Queuing Layer
 
 ## Celery
 
@@ -17,7 +17,7 @@ Install Celery using pip:
 pip install celery
 ```
 
-### Create a Celery Configuration File:
+###Create a Celery Configuration File:
 
 <p>
 Create a file named celery.py in your Django project directory (next to your settings.py). This file will configure and instantiate Celery for your project.

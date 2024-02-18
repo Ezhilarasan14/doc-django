@@ -1,4 +1,4 @@
-# Application Layer
+# Integration Layer
 
 ## Email Template
 
