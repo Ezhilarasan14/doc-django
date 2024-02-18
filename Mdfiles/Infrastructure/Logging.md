@@ -1,6 +1,6 @@
-#Infrastructure Layer
+# Infrastructure Layer
 
-##Logging
+## Logging
 
 <p>
 Logging is an essential aspect of software development as it helps in monitoring and debugging applications. In Django, you can configure logging to record information about your application's behavior.
@@ -15,13 +15,11 @@ Digid Customized logger functions:
 
 </p>
 
-###1. Configure Logging Settings:
+### 1. Configure Logging Settings:
 
 
 ```
 import os
-
-# ...
 
 LOGGING = {
     'version': 1,
@@ -60,7 +58,7 @@ LOGGING = {
 
 ```
 
-###2. Use Logging in Your Code
+### 2. Use Logging in Your Code
 <p>
 You can use the logging module in your Django code to add log messages. For example:
 
