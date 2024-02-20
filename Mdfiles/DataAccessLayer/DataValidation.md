@@ -47,3 +47,6 @@ invalid_user = User(**invalid_user_data)
 
 ```
 Pydantic will raise a validation error.
+
+
+![alt text](sqlalchemy-pydantic.jpeg)
