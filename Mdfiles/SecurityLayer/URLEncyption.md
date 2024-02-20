@@ -37,7 +37,6 @@ decrypted_text = cipher.decrypt(nonce, ciphertext, None)
 try:
     # This should not raise an exception if the ciphertext is authentic
     cipher.decrypt(nonce, ciphertext, None)
-    print("Authentication successful.")
 except Exception as e:
     print(f"Authentication failed: {str(e)}")
 
