@@ -3,6 +3,8 @@
 ## Data Validation
 
 <p>
+https://docs.pydantic.dev/latest/
+
 Pydantic is a data validation and settings management library in Python. It is used for data validation and parsing by defining data models using Python type annotations. Pydantic is often used in web applications, APIs, and other projects where data validation and serialization/deserialization are important.
 
 Here's a basic overview of using Pydantic:

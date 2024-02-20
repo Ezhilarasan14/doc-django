@@ -59,10 +59,8 @@ class AuditLogMiddleware(MiddlewareMixin):
 
 Add the updated middleware to the MIDDLEWARE setting in your settings.py file:
 
-```
 # settings.py
 MIDDLEWARE = [
     # other middleware...
     'your_app.middlewares.AuditLogMiddleware',
 ]
-```

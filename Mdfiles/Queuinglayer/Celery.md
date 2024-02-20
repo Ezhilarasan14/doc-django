@@ -42,3 +42,5 @@ app.config_from_object('django.conf:settings', namespace='CELERY')
 # Auto-discover tasks in all installed apps
 app.autodiscover_tasks()
 ```
+
+https://akpolatcem.medium.com/asynchronous-distributed-task-execution-via-python-celery-using-redis-and-rabbitmq-855a282f9e
